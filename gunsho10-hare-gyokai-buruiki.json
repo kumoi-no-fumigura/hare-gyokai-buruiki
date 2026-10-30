@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hare-gyokai-buruiki",
  "yomi": "はれのぎょかいぶるいき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "部類記（記録）",
+  "era": "未詳",
+  "author": "未詳",
+  "desc": "晴の和歌御会について、建保6年（1218）の中殿御会などの記事を諸家の日記から抜き出して集めた部類記。末尾は欠けている。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -91,6 +96,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
